@@ -1,3 +1,2 @@
-module github.com/sondt/utils/v1
-
+module github.com/sondt/go-utils
 go 1.21.4
